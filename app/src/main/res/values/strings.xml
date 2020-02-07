@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Andi Lynson Ostoy Torres</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is <b>Andi Lynson O. Torres</b>.
+    \n\nI am a proud member of UP PSS.
+    \n\nI am also a proud recipient of the DOST JLSS.
+    \n\nI am currently enrolled in the University of the Philippines Los Baños under the BS Computer Science program.
+    \n\nI shifted from BS Civil Engineering to BS Computer Science.
+    \n\nMy hobbies include making art and solving rubik\'s cubes.
+    \n\nIn my spare time, I also play rhythm and tower defense games such as: osu! and BTD6</string>
+</resources>
